@@ -33,4 +33,4 @@
 Загружаем все необходимые библиотеки, подключаем модули, загружаем прошивку в Arduino. При включении Arduino игра начнется, для повторного начала игры нажмите кнопку RST на Arduino
 
 ## Пример работы
-<iframe width="560" height="315" src="https://youtu.be/RJyg1MtTnOA?si=KrTSyZ3Z0CMp0siQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+![Замок из игры Atomic Heart на Arduino](https://youtu.be/RJyg1MtTnOA?si=KrTSyZ3Z0CMp0siQ)
